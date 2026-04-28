@@ -1,5 +1,8 @@
 # Mobile-Computing-Activity-2
 
+
+https://www.mediafire.com/file/czh4ryhnsucdikk/Screen_Recording_20260428_233709.mp4/file
+
 AIM and Algorithms 
 
 To develop a Bus Ticket Booking Android Application using MIT App Inventor that allows users to search buses, select seats, enter passenger details, make payments, and view booking history.
@@ -76,3 +79,5 @@ Display Reset and Logout options
 If Reset clicked → clear stored data
 If Logout clicked →
 Navigate back to Login Screen (Screen2)
+
+
